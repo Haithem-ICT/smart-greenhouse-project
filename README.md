@@ -79,7 +79,7 @@ The system follows a 4-layer architecture:
 - **C++** (Arduino programming)
 
 ## 👤 Author
-**Tarhouni Haithem**  
+**Haithem Tarhouni**  
 **Tarhouni04haithem@gmail.com**
 **https://github.com/Haithem-ICT**
 
